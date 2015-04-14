@@ -1,1 +1,13 @@
 You log goes in this  file.
+
+Start: Tue, 14 Apr 2015 18:00:00
+End: Tue, 14 Apr 2015 18:18:59 -0400
+Tasks: finished variables.js
+
+Start: Tue, 14 Apr 2015 13:56:00
+End: Tue, 14 Apr 2015 13:58:28 -0400
+Tasks: added uselessFunction
+
+Start:
+End: Tue, 14 Apr 2015 13:52:04 -0400
+Tasks: added assignment3 files
