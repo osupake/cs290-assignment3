@@ -1,10 +1,12 @@
 You log goes in this  file.
 
-Start: Tue, 14 Apr 2015 18:00:00
+Tue, 14 Apr 2015 19:30:00 -0400
+
+Start: Tue, 14 Apr 2015 18:00:00 -0400
 End: Tue, 14 Apr 2015 18:18:59 -0400
 Tasks: finished variables.js
 
-Start: Tue, 14 Apr 2015 13:56:00
+Start: Tue, 14 Apr 2015 13:56:00 -0400
 End: Tue, 14 Apr 2015 13:58:28 -0400
 Tasks: added uselessFunction
 

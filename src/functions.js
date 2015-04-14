@@ -35,6 +35,16 @@ var barType = typeof bar;
 
 //your code here
 
+bar = function(doubleArray) {
+	for(var i = 0; i < doubleArray.length; i++) {
+		doubleArray[i] = doubleArray[i] * 2;
+		if(isNaN(doubleArray[i]) === true) {
+			return false;
+		}
+	}
+	return true;
+}
+
 //end your code
 
 /**
@@ -70,5 +80,9 @@ function GitLog(hash, date, message) {
 */
 
 //your code here
+
+function parseGit(){
+
+}
 
 //end your code
